@@ -1,0 +1,4 @@
+**/__pycache__/
+config.py
+hotels_test.csv
+hotels_train.csv
