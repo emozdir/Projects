@@ -1,0 +1,9 @@
+# Игнорируем тяжелые исходные датасеты и архивы
+clean_data.csv
+clean_df.csv
+data.zip
+
+# Игнорируем локальные технические логи
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
